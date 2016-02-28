@@ -3,10 +3,15 @@ This codebook explains the functions used in run_analysis.R
 
 The code follows the flow:
 1) Set the working directory
+
 2) Load needed libraries
+
 3) Read files and store them in variables
+
 4) Extract required data per instructions
+
 5) Combine the data
+
 6) Write the final tidy file
 
 
